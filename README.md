@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**guiit/guiit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**guiit/guiit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 Hi there! Welcome to my profile! I hope you enjoy it!
 
 🔭 I’m currently working as a Back-end Developer (Node.js, Typescript)
